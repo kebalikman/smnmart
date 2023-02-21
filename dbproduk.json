@@ -1,0 +1,56 @@
+{
+    "dagingsapi":[
+        {
+            "id":1,
+            "nama":"Babat Hitam",
+            "harga":45000,
+            "hargax":50000,
+            "deskripsi":"Babar Hitam adalah bagian dari jerohan sapi cocok untuk nasi babat atau soto babat.",
+            "kuantitas":1,
+            "satuan":"Kg",
+            "keterangan":"Untuk harga menyesuaikan kemasan."
+        },
+        {
+            "id":2,
+            "nama":"Beef Slice mix wagyu",
+            "harga":45000,
+            "hargax":50000,
+            "deskripsi":"Beef Slice yang terbuat dari daging US Shortplate dengan komposisi tetelan wagyu cocok untuk grill dan suki ala Jepang.",
+            "kuantitas":500,
+            "satuan":"gr",
+            "keterangan":"Kemasan 500gr dengan potongan 1.5mm."
+        },
+        {
+            "id":3,
+            "nama":"Daging Sapi Giling",
+            "harga":45000,
+            "hargax":50000,
+            "deskripsi":"Bahan asli dr US Beef dan Australia Beef yang dihaluskan prosesnya dengan kadar lemak 40-50% digiling murni dari dagin sapi tanpa campuran air pengawet dan bahan lain yamg bosa mengubah citra rasa daging sapi 100% daging sapi.",
+            "kuantitas":500,
+            "satuan":"gr",
+            "keterangan":"Kemasan gr dagin giling 100% Daging sapi."
+        }
+    ],
+    "rekomendasi": [
+        {"id":"1","Nama":"Otak Sapi","Kategori":"Daging Sapi","Harga":"35000","HargaUp":"45000","gambar":"otaksapi.jpeg"},
+        {"id":"2","Nama":"Hati Sapi","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"55000","gambar":"hatisapi.jpg"},
+        {"id":"3","Nama":"Babat hitam","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"50000","gambar":"babat.jpeg"},
+        {"id":"4","Nama":"Paru","Kategori":"Daging Sapi","Harga":"68000","HargaUp":"75000","gambar":"parusapi.jpg"},
+        {"id":"5","Nama":"Daging Sapi Giling ","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"50000","gambar":"sapiguling.jpg"},
+        {"id":"6","Nama":"Beef Slice mix wagyu","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"50000","gambar":"slice.jpg"},
+        {"id":"7","Nama":"Iga Gondrong sapi","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"55000","gambar":"igagondrong.jpeg"},
+        {"id":"8","Nama":"Usus Sapi","Kategori":"Daging Sapi","Harga":"28000","HargaUp":"35000","gambar":"usus.jpeg"},
+        {"id":"9","Nama":"Daging Rawon","Kategori":"Daging Sapi","Harga":"85000","HargaUp":"95000","gambar":"rawon.jpg"},
+        {"id":"10","Nama":"Slice Tanpa Lemak TL","Kategori":"Daging Sapi","Harga":"60000","HargaUp":"65000","gambar":"wagyu.jpg"},
+        {"id":"11","Nama":"Daging Rendang","Kategori":"Daging Sapi","Harga":"110000","HargaUp":"120000","gambar":"rendang.jpg"}],
+    
+    "promo":
+        [{"KodeProduk":"0008","Nama":"Iga Gondrong sapi","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"55000"},{"KodeProduk":"0006","Nama":"Usus Sapi","Kategori":"Daging Sapi","Harga":"28000","HargaUp":"35000"},{"KodeProduk":"0010","Nama":"Daging Rendang","Kategori":"Daging Sapi","Harga":"110000","HargaUp":"120000"},{"KodeProduk":"0014","Nama":"Hati Sapi","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"55000"},{"KodeProduk":"0009","Nama":"Otak Sapi","Kategori":"Daging Sapi","Harga":"35000","HargaUp":"45000"},{"KodeProduk":"0005","Nama":"Babat hitam","Kategori":"Daging Sapi","Harga":"45000","HargaUp":"50000"},{"KodeProduk":"0012","Nama":"Slice Tanpa Lemak TL","Kategori":"Daging Sapi","Harga":"60000","HargaUp":"65000"},{"KodeProduk":"0011","Nama":"Daging Rawon","Kategori":"Daging Sapi","Harga":"85000","HargaUp":"95000"}],
+    
+    "kategori":
+    [{"id":"1","kategori_nama":"Daging Sapi","pos_nama":"","urut":null,"aktif":"0","gambar":"dgsp.png"},
+    {"id":"2","kategori_nama":"Olahan Makanan","pos_nama":"","urut":null,"aktif":"0","gambar":"olahanmakanan3.png"},
+    {"id":"3","kategori_nama":"Daging Ayam","pos_nama":"","urut":null,"aktif":"0","gambar":"ayamdg.png"}]
+
+    
+}

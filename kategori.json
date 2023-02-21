@@ -1,0 +1,20 @@
+{
+    "kategori":[
+        {
+            "id":1,
+            "nama": "Daging Sapi",
+            "url":"/cow.png"
+        },
+        {
+            "id":2,
+            "nama": "Olahan Makanan",
+            "url":"/bibimbap.png"
+        },
+        {
+            "id":3,
+            "nama": "Daging Ayam",
+            "url":"/chicken-breast.png"
+        }
+    ]
+    
+}
